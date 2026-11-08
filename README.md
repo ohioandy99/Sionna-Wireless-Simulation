@@ -93,10 +93,16 @@ Sionna_Project_GitHub_Complete/
 
 원본 Notebook의 저장된 출력에는 과거 PC 경로가 포함되어 있어 **실행 결과 캐시를 제거**했습니다. 대표 이미지는 `figures/`에 별도로 보존했습니다. 또한 옛 Windows 절대경로는 프로젝트 상대경로로 교체했습니다. 시뮬레이션 알고리즘 자체의 정확성을 새로 검증하거나 성능을 재현한 것은 아닙니다.
 
-## 7. 출처 및 공개 주의사항
+## 7. 출처 및 라이선스 (References & Licenses)
 
-- NVIDIA Sionna 공식 프로젝트: https://nvlabs.github.io/sionna/
-- Blender: https://www.blender.org/
-- OpenStreetMap: https://www.openstreetmap.org/
+본 프로젝트는 무선통신 시뮬레이션 학습 및 실습을 목적으로 제작되었으며, 다음 오픈소스 소프트웨어와 공개 데이터를 활용하였습니다.
 
-본 저장소에는 Blender로 만든 모델 및 OpenStreetMap 기반 파일 등이 포함되어 있습니다. **지도 데이터의 ODbL 등 적용 라이선스와 3D 모델·팀 공동 작업물의 공개/재배포 권한을 확인한 후** GitHub 저장소를 Public으로 전환하세요.
+- **NVIDIA Sionna:** https://nvlabs.github.io/sionna/ (Apache License 2.0)
+- **Blender:** https://www.blender.org/
+- **OpenStreetMap:** https://www.openstreetmap.org/copyright (© OpenStreetMap contributors, ODbL 1.0)
+
+본 저장소에는 Python 기반 시뮬레이션 코드, Blender를 활용한 3D 환경 모델, OpenStreetMap 기반 지도 데이터 및 전파환경 분석 결과가 포함되어 있습니다.
+
+외부 소프트웨어와 지도 데이터, 3D 모델 등의 저작권 및 라이선스는 각 원저작자와 제공자의 조건을 따릅니다. 제3자 자료의 재배포 가능 여부는 개별 파일의 출처 및 적용 라이선스를 기준으로 확인해야 합니다.
+
+본 저장소는 공개 가능한 학습 및 기본 실습자료를 중심으로 구성하였으며, 별도로 수행한 연구실의 비공개 연구 코드와 데이터는 포함하지 않았습니다.
