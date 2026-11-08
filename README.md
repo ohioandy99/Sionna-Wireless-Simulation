@@ -99,4 +99,4 @@ Sionna_Project_GitHub_Complete/
 - Blender: https://www.blender.org/
 - OpenStreetMap: https://www.openstreetmap.org/
 
-본 저장소에는 Blender로 만든 모델 및 OpenStreetMap 기반 파일 등이 포함되어 있습니다. **지도 데이터의 ODbL 등 적용 라이선스와 3D 모델·팀 공동 작업물의 공개/재배포 권한을 확인한 후** GitHub 저장소를 Public으로 전환하세요. 프로젝트에 포함된 코드는 기존 연구실 자료·공동연구 결과와 구분하여 공개해야 합니다. 별도 라이선스 파일은 임의로 부여하지 않았습니다.
+본 저장소에는 Blender로 만든 모델 및 OpenStreetMap 기반 파일 등이 포함되어 있습니다. **지도 데이터의 ODbL 등 적용 라이선스와 3D 모델·팀 공동 작업물의 공개/재배포 권한을 확인한 후** GitHub 저장소를 Public으로 전환하세요.
