@@ -19,11 +19,11 @@ MATLAB 기반의 통신 성능 분석을 보완하기 위해 3D 도시·건물 �
 | **Downlink Radio Map** | 외부 MATLAB 채널·빔포밍 벡터를 불러와 공간별 신호 분포 비교 | `notebooks/05_downlink_radio_map_external_mat.ipynb` (**별도 .mat 필요**) |
 | **예전 버전 호환 실습** | 구버전 Sionna RT의 RIS 객체 import 확인 | `notebooks/04_legacy_sionna019_import.ipynb` |
 
-### 대표 결과 이미지
+### 대표 결과 이미지 — Radio Map
 
-![Sionna RT 3D Ray Tracing](figures/rt_paths_zoom.png)
+![Sionna 무선 신호 분포 시각화](figures/radio_map.png)
 
-*저장된 실습 이미지이며, 위 이미지 자체가 특정 셀이나 실제 상용망의 측정 결과를 뜻하지는 않습니다.*
+*무선통신 시뮬레이션을 통해 생성한 공간별 신호 분포 예시입니다. 실제 상용 기지국의 측정 결과가 아닙니다.*
 
 ## 3. 디렉터리 구조
 
