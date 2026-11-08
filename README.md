@@ -21,7 +21,7 @@ MATLAB 기반의 통신 성능 분석을 보완하기 위해 3D 도시·건물 �
 
 ### 대표 결과 이미지 — Radio Map
 
-![Sionna 무선 신호 분포 시각화](figures/radio_map.png)
+![Sionna 무선 신호 분포 시각화](figures/beam_map_comparison.png)
 
 *무선통신 시뮬레이션을 통해 생성한 공간별 신호 분포 예시입니다. 실제 상용 기지국의 측정 결과가 아닙니다.*
 
